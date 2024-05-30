@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["LockCommand"],"fn":["update_lock_file"]};

@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["GAS_SAFE_OVERHEAD"],"enum":["SuiClientCommandResult","SuiClientCommands"],"fn":["estimate_gas_budget","execute_dry_run","max_gas_budget","request_tokens_from_faucet"],"struct":["AddressesOutput","DynamicFieldOutput","GasCoinOutput","NewAddressOutput","ObjectOutput","ObjectsOutput","Opts","OptsWithGas","SwitchResponse"]};

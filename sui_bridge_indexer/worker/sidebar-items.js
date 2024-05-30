@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["process_eth_transaction"],"struct":["BridgeWorker"]};
